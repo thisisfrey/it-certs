@@ -8,11 +8,11 @@ I have the following certifications:
 
 - **Java SE 8 Developer Bootcamp** - Aug. 2024
 - **Certified Professional Python Programmer (PCPP1)** - May 2024
-- **Associate Cloud Engineer** - Oct. 2023
-- **Cloud Digital Leader** - Sept. 2023
+- **Google Cloud Certified Associate Cloud Engineer** - Oct. 2023
+- **Google Cloud Certified Cloud Digital Leader** - Sept. 2023
 - **AWS Cloud Practitioner** - Aug. 2023
 - **Professional Scrum Master I (PSM I)** - July 2022
-- **C1 Advanced** - Dec. 2019
+- **Cambridge English C1 Advanced** - Dec. 2019
 
 ## Future IT Certifications
 
