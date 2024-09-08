@@ -20,3 +20,19 @@ I have the following certifications:
 - [Google Cloud Professional Machine Learning Engineer](https://cloud.google.com/learn/certification/machine-learning-engineer?hl=de)
 - [Python Django Course on Udemy](https://www.udemy.com/course/python-django-the-practical-guide)
 - [Angular Course on Udemy](https://www.udemy.com/course/complete-angular-14-course-learn-frontend-development)
+- **Certified Kubernetes Administrator (CKA)** (2025)
+
+**********************************
+
+## Frontend and Backend Development
+- **NodeJS**
+- **Express / Next:** Focus on Express
+- **Python Frameworks:** Django, Flask, FastAPI
+- **Angular**
+
+## Other Programming Languages
+- **GoLang:** With GinGonic framework
+- **Rust**
+- **C++ / C:** For performance-oriented, machine-level, and graphic applications
+- **Java:** With Spring framework
+- **Ruby:** With Ruby on Rails
